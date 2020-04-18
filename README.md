@@ -1,4 +1,4 @@
-# GLMLAICapStoneProjectonNLP
+# GL_AI_ML_NLP_CapstoneProject
 
 ## AUTOMATIC TICKET ASSIGNMENT       
 
