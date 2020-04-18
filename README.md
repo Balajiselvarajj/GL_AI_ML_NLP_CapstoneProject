@@ -27,33 +27,41 @@ Milestone 1: Pre-Processing, Data Visualisation and EDA
  
 ● Exploring the given Data files  
 ● Understanding the structure of data  
-● Missing points in data● Finding inconsistencies in the data● Visualizing different patterns● Visualizing different text features● Dealing with missing values● Text preprocessing● Creating word vocabulary from the corpus of report text data● Creating tokens as required  
+● Missing points in data  
+● Finding inconsistencies in the data  
+● Visualizing different patterns  
+● Visualizing different text features  
+● Dealing with missing values  
+● Text preprocessing  
+● Creating word vocabulary from the corpus of report text data  
+● Creating tokens as required  
  
  
 #### Milestone 2: Model Building 
  
 ##### Overview 
  
-● Building a model architecture which can classify. 
-● Trying different model architectures by researching state of the art for similar tasks. 
-● Train the model 
+● Building a model architecture which can classify.  
+● Trying different model architectures by researching state of the art for similar tasks.  
+● Train the model  
 ● To deal with large training time, save the weights so that you can use them when training the model for the second time without starting from scratch. 
  
 #### Milestone 3:  Test the Model, Fine-tuning and Repeat 
  
 ##### Overview 
-● Test the model and report as per evaluation metrics 
-● Try different models ● Try different evaluation metrics  
-● Set different hyper parameters, by trying different optimizers, loss functions, epochs, learning rate, batch size, checkpointing, early stopping etc..for these models to finetune them 
+● Test the model and report as per evaluation metrics  
+● Try different models  
+● Try different evaluation metrics  
+● Set different hyper parameters, by trying different optimizers, loss functions, epochs, learning rate, batch size, checkpointing, early stopping etc..for these models to finetune them  
 ● Report evaluation metrics for these models along with your observation on how changing different hyper parameters leads to change in the final evaluation metric. 
  
  
 #### Project Objectives 
  
-The objective of the project are, 
-● Learn how to use different classification models. 
-● Use transfer learning  to use pre-built models. 
-● Learn to set the optimizers, loss functions, epochs, learning rate, batch size, checkpointing, early stopping etc. 
+The objective of the project are,  
+● Learn how to use different classification models.  
+● Use transfer learning  to use pre-built models.  
+● Learn to set the optimizers, loss functions, epochs, learning rate, batch size, checkpointing, early stopping etc.  
 ● Read different research papers of given domain to obtain the knowledge of advanced models for the given problem. 
  
 #### Project submissions and Evaluation Criteria 
@@ -61,17 +69,16 @@ The objective of the project are,
 While we encourage peer collaboration and contribution, plagiarism, copying the code from other sources or peers will defeat the purpose of coming to this program. We expect the highest order of ethical behavior.  
  
 ##### Submit the project as given below.    
-1. Report with Problem Statement, Related Work, Your Approach and comparison of results with other models written in Latex. 
-2. Video explaining the problem statement and code. 
-3. Slides explaining Problem Statement, Related Work, Your Approach and comparison of results with the other models. 
-4. Github hosted website. 
+1. Report with Problem Statement, Related Work, Your Approach and comparison of results with other models written in Latex.  
+2. Video explaining the problem statement and code.  
+3. Slides explaining Problem Statement, Related Work, Your Approach and comparison of results with the other models.  
+4. Github hosted website.  
 5. Source code link in Github. 
  
  
 ##### Evaluation Criteria: 
-You must receive a minimum of 60% on each milestone to complete the project. 
- 
->60 % Points = Complete 
+You must receive a minimum of 60% on each milestone to complete the project.  
+>60 % Points = Complete  
 >80 % Points = Excellent 
  
 #### Project Support  
