@@ -25,16 +25,9 @@ Milestone 1: Pre-Processing, Data Visualisation and EDA
  
 #### Overview 
  
-● Exploring the given Data files 
-● Understanding the structure of data 
-● Missing points in data 
-● Finding inconsistencies in the data 
-● Visualizing different patterns  
-● Visualizing different text features 
-● Dealing with missing values 
-● Text preprocessing  
-● Creating word vocabulary from the corpus of report text data 
-● Creating tokens as required  
+● Exploring the given Data files  
+● Understanding the structure of data  
+● Missing points in data● Finding inconsistencies in the data● Visualizing different patterns● Visualizing different text features● Dealing with missing values● Text preprocessing● Creating word vocabulary from the corpus of report text data● Creating tokens as required  
  
  
 #### Milestone 2: Model Building 
