@@ -1,4 +1,4 @@
-# GLMLAICaptosneProjectonNLP
+# GLMLAICapStoneProjectonNLP
 
 ## AUTOMATIC TICKET ASSIGNMENT       
 
